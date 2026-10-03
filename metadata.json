@@ -1,0 +1,6 @@
+{
+  "name": "Eco-Beauty Vocab Garden - Unit 2",
+  "description": "Ứng dụng học từ vựng Tiếng Anh Unit 2: Eco-Friendly Lifestyle với Flashcard thông minh, Game IOE điền từ, Lật hình trí nhớ và Trắc nghiệm luyện thi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
